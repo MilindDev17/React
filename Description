@@ -1,0 +1,4 @@
+npm i create-react-app
+create-react-app nameofrepository
+cd nameofrepository
+npm start
